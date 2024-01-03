@@ -1,0 +1,13 @@
+Add Image =>
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+
+Add a code example =>
+
+### Example 1
+rtjw56jw55657yj7jytjythndgiekgndgdj5w7kutdym
+<pre>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+</pre>
